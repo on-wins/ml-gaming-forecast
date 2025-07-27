@@ -1,3 +1,8 @@
+# Runs the whole data process
+# - downloads datasets
+# - cleans datasets
+# - builds features
+
 import subprocess
 
 print("Step 1: Download Datasets")
