@@ -10,8 +10,11 @@ Predicting breakout trends in video games (e.g., next top genre or console) usin
 # SETUP INSTRUCTIONS
 1. Clone Repository
 2. Install dependencies
-3. Run full data pipeline (downloads raw datasets into data/raw/, cleans/saves them into data/processed/) [python run_all.py]
-4. Explore the data with Jupyter Notebook [python -m notebook]
+3. Run full data pipeline (downloads raw datasets into data/raw/, cleans/saves them into data/processed/)
+`python run_all.py`
+python
+4. Explore the data with Jupyter Notebook
+`python -m notebook`
     - go to /notebooks/eda.ipynb in jupyter
     - restart the kernel and run all cells
 
